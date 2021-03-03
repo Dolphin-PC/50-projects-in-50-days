@@ -14,4 +14,5 @@ HTML,CSS,JS practice
 -   [Day 10 : Dad Jokes](./Day10-DadJokes)
 -   [Day 11 : Event Keycodes](./Day11-EventKeycodes)
 -   [Day 12 : FAQ Collapse](./Day12-FAQCollapse)
+-   [Day 13 : Random Choice Picker](./Day13-RandomChoicePicker)
 
