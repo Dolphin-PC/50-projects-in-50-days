@@ -9,4 +9,7 @@ HTML,CSS,JS practice
 -   [Day 5 : Blurry Loading](./Day5-BlurryLoading)
 -   [Day 6 : Scroll Animation](./Day6-ScrollAnimation)
 -   [Day 7 : Split Landing page](./Day7-SplitLandingPage)
--   [Day 8 : Sound Board](./Day8-SoundBoard)
+-   [Day 8 : Form Input Wave](./Day8-FormInputWave)
+-   [Day 9 : Sound Board](./Day9-SoundBoard)
+-   [Day 10 : Dad Jokes](./Day10-DadJokes)
+
