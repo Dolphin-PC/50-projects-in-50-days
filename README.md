@@ -12,4 +12,5 @@ HTML,CSS,JS practice
 -   [Day 8 : Form Input Wave](./Day8-FormInputWave)
 -   [Day 9 : Sound Board](./Day9-SoundBoard)
 -   [Day 10 : Dad Jokes](./Day10-DadJokes)
+-   [Day 11 : Event Keycodes](./Day11-EventKeycodes)
 
