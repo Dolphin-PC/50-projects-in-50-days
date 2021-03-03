@@ -13,4 +13,5 @@ HTML,CSS,JS practice
 -   [Day 9 : Sound Board](./Day9-SoundBoard)
 -   [Day 10 : Dad Jokes](./Day10-DadJokes)
 -   [Day 11 : Event Keycodes](./Day11-EventKeycodes)
+-   [Day 12 : FAQ Collapse](./Day12-FAQCollapse)
 
